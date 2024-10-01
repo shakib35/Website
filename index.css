@@ -1,0 +1,26 @@
+
+.main-header {
+    background-color: #013d5a;
+    color: white;
+    text-align: left;
+    padding: 15px 0;
+    font-size: 24px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000; 
+}
+
+
+body {
+    margin: 0;
+    padding-top: 70px;
+}
+
+
+.content {
+    height: 2000px;
+    padding: 20px;
+    font-size: 18px;
+}
